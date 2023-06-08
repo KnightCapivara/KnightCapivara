@@ -1,7 +1,7 @@
 ### Hi, i'm Danilo Acassio! Welcome 👋
 
-- 👨‍🎓 I'm Software Engineering - Student in Universidade Federal do Mato Grosso do Sul.
-- :man_technologist: Full-Stack Developer React JS & Typescript | Ruby & PHP | NodeJS | Shell Script | Databases.
+- 👨‍🎓 I'm Software Engineering I - Student in Universidade Federal do Mato Grosso do Sul.
+- :man_technologist: Front-end Developer React, JS & Typescript | Ruby & PHP | NodeJS | Shell Script | Databases.
 
 #
 ### Links 🖥️

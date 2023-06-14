@@ -7,14 +7,16 @@
 ### Links 🖥️
  [![Website](https://img.shields.io/badge/-Website-1e3f8b?style=flat&color=742774&logo=WebMoney&logoColor=white)](https://www.knightcapivara.com.br/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knightcapivara/)
  <a href = "mailto:danillo.targino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
- <img align="auto" src="https://komarev.com/ghpvc/?username=KnightCapivarafl&label=Profile%20views&color=E81DD0&style=flat" alt="KnightCapivara"/>
+ 
  
  ![Snake animation](https://github.com/knightcapivara/knightcapivara/blob/output/github-contribution-grid-snake.svg)
  <br>
 
 ## *Skills Programming Language*
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&layout=compact&align=center)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightCapivara&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs&include_all_commits=true&count_private=true)
+![KnightCapivara GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightCapivara&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs,prs&include_all_commits=true&count_private=true)
+
+
  <div style="display: inline_block" >
 <h3><p align = "justify"><i><b>:man_technologist: My stacks Software Developer</b></i></h3>
 <br>

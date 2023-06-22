@@ -17,7 +17,6 @@
 ![KnightCapivara Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&layout=compact&align=center)
 ![KnightCapivara GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightCapivara&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs,prs&include_all_commits=true&count_private=true&locale=pt-BR)
 ![KnightCapivara GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KnightCapivara&theme=vision-friendly-dark&border_radius=4&locale=pt_BR)
-<img src="https://user-images.githubusercontent.com/36594527/208378907-aa4a028f-5546-4ac4-9245-140a80bec975.gif" width="700">
 
 
 

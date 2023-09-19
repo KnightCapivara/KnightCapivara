@@ -1,7 +1,7 @@
 ### Hi, i'm Danilo Acassio! Welcome 👋
 
 - 👨‍🎓 I'm Software Engineering I - Student in Universidade Federal do Mato Grosso do Sul.
-- :man_technologist: Front-end Developer React, JS & Typescript | Ruby & PHP | NodeJS | Shell Script | Databases.
+- :man_technologist: Mid-Level Front-end Developer - JavaScript | React | Next.Js | Design System - Patterns | NodeJS & Ruby on Rails |
 
 #
 ### Links 🖥️

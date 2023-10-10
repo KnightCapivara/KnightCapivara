@@ -22,7 +22,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&layout=compact&theme=vision-friendly-dark" />
   </a>
  <a href="https://github.com/KnightCapivara" alt="KnightCapivara GitHub Streak">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=KnightCapivara&theme=vision-friendly-dark&layout=compact&border_radius=4&locale=pt_BR" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=KnightCapivara&exclude_days=Sun&theme=vision-friendly-dark&layout=compact&border_radius=4&locale=pt_BR" />
   </a> <br>
   <a href="https://github.com/KnightCapivara" alt="KnightCapivara Profile Details">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KnightCapivara&theme=vision_friendly_dark" />

@@ -30,6 +30,13 @@
   <!-- <a href="https://github.com/KnightCapivara" alt="KnightCapivara GitHub stats">
    <img src="https://github-readme-stats.vercel.app/api?username=KnightCapivara&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs,prs&include_all_commits=true&count_private=true&locale=pt-BR" />
   </a> -->
+ <a href="https://github-profile-trophy.vercel.app/?username=KnightCapivara&column=5&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
+        <img 
+             src="https://github-profile-trophy.vercel.app/?username=KnightCapivara&column=5&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true"
+             align="center"
+             title="Danillo Acassio's Trophies"
+             width="55%"
+        />
 </p>
 
  <div style="display: inline_block" >

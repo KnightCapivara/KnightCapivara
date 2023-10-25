@@ -13,10 +13,6 @@
  <br>
 
 ## *Skills Programming Language*
-<!-- ![KnightCapivara Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&layout=compact&align=center)
-![KnightCapivara](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KnightCapivara&theme=vision_friendly_dark)
-![KnightCapivara GitHub stats](https://github-readme-stats.vercel.app/api?username=KnightCapivara&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs,prs&include_all_commits=true&count_private=true&locale=pt-BR)
-![KnightCapivara GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=KnightCapivara&theme=vision-friendly-dark&border_radius=4&locale=pt_BR) -->
 <p align="center">
   <a href="https://github.com/KnightCapivara" alt="KnightCapivara Top languages">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&layout=compact&theme=vision-friendly-dark" />
@@ -27,9 +23,6 @@
   <a href="https://github.com/KnightCapivara" alt="KnightCapivara Profile Details">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KnightCapivara&theme=vision_friendly_dark" />
   </a> <br>
-  <!-- <a href="https://github.com/KnightCapivara" alt="KnightCapivara GitHub stats">
-   <img src="https://github-readme-stats.vercel.app/api?username=KnightCapivara&show_icons=true&theme=vision-friendly-dark&hide=issues,contribs,prs&include_all_commits=true&count_private=true&locale=pt-BR" />
-  </a> -->
  <a href="https://github-profile-trophy.vercel.app/?username=KnightCapivara&column=5&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
         <img 
              src="https://github-profile-trophy.vercel.app/?username=KnightCapivara&column=5&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true"

@@ -8,6 +8,12 @@
 [![Website](https://img.shields.io/badge/-Website-1e3f8b?style=flat&color=742774&logo=WebMoney&logoColor=white)](https://www.knightcapivara.com.br/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knightcapivara/)
  <a href = "mailto:danillo.targino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" target="_blank"></a>
 ![Profile Views](https://komarev.com/ghpvc/?username=KnightCapivarafl&label=Profile%20views&color=E81DD0&style=flat")
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knightcapivara/knightcapivara/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knightcapivara/knightcapivara/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/knightcapivara/knightcapivara/output/github-contribution-grid-snake.svg">
+</picture>
  
 
  <br>

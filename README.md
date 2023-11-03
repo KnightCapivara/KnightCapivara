@@ -21,7 +21,7 @@
 ## *Skills Programming Language*
 <p align="center">
   <a href="https://github.com/KnightCapivara" alt="KnightCapivara Top languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&count_private=true&layout=compact&theme=vision-friendly-dark&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&hide=php&layout=compact&theme=vision-friendly-dark&langs_count=8" />
   </a>
  <a href="https://github.com/KnightCapivara" alt="KnightCapivara GitHub Streak">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KnightCapivara&exclude_days=Sun%2CSat,San&theme=vision-friendly-dark&layout=compact&border_radius=4&locale=pt_BR" />

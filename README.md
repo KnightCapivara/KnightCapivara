@@ -1,8 +1,7 @@
 ### Hi, i'm Danilo Acassio! Welcome 👋
 
-- 👨‍🎓 I'm Software Engineering I - Student in Universidade Federal do Mato Grosso do Sul.
-- :man_technologist: Mid-Level Front-end Developer - JavaScript & TypeScript | React | Next.Js | Design System - Patterns | NodeJS & Ruby on Rails |
-
+- 👨‍🎓 I'm Software Engineering Levem: I - and Student in Universidade Federal do Mato Grosso do Sul, Brazil.
+- :man_technologist: Front-end Developer React -> JavaScript & Typescript | Go Lang | Design System - Patterns | Next.Js | Postegresql |
 #
 ### Links 🖥️
 [![Website](https://img.shields.io/badge/-Website-1e3f8b?style=flat&color=742774&logo=WebMoney&logoColor=white)](https://www.knightcapivara.com.br/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knightcapivara/)

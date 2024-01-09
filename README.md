@@ -1,6 +1,6 @@
 ### Hi, i'm Danilo Acassio! Welcome 👋
 
-- 👨‍🎓 I'm Software Engineering Levem: I - and Student in Universidade Federal do Mato Grosso do Sul, Brazil.
+- 👨‍🎓 I'm Software Engineering - I & Student in Universidade Federal do Mato Grosso do Sul, Brazil.
 - :man_technologist: Front-end Developer React -> JavaScript & Typescript | Go Lang | Design System - Patterns | Next.Js | Postegresql |
 #
 ### Links 🖥️

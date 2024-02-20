@@ -37,9 +37,9 @@
         />
 </p>
 
- <div style="display: inline_block" >
-<h3><p align = "justify"><i><b>:man_technologist: My stacks Software Developer</b></i></h3>
-<br>
+ <div style="display: none" >
+   <h3><p align = "justify"><i><b> </b></i></h3>
+   <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <a href="https://www.linux.org/forums/#linux-tutorials.122" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Knight-Linux" width="40" height="40"/> </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

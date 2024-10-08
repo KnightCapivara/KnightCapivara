@@ -20,7 +20,7 @@
 ## *Skills Programming Language*
 <p align="center">
   <a href="https://github.com/KnightCapivara" alt="KnightCapivara Top languages">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&hide=php&layout=compact&theme=vision-friendly-dark&langs_count=8" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnightCapivara&hide=smarty,yacc,ragel,gherkin,scss&count_private=true&layout=compact&theme=vision-friendly-dark&langs_count=8&size_weight=0.5&count_weight=0.5" />
   </a>
  <a href="https://github.com/KnightCapivara" alt="KnightCapivara GitHub Streak">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=KnightCapivara&exclude_days=Sun%2CSat,San&theme=vision-friendly-dark&layout=compact&border_radius=4&locale=pt_BR" />
@@ -35,8 +35,11 @@
              title="Danillo Acassio's Trophies"
              width="70%"
         />
+ </a>
 </p>
 
+ [![Contributions in 3D](/profile-3d-contrib/profile-season-animate.svg)](https://github.com/marketplace/actions/github-profile-3d-contrib)
+ 
  <div style="display: none" >
    <!--<h3><p align = "justify"><i><b> </b></i></h3>
    <br>

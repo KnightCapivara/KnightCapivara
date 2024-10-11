@@ -1,7 +1,7 @@
 ### Hi, i'm Danilo Acassio! Welcome 👋
 
 - 👨‍🎓 I'm Software Engineering - I & Student in Universidade Federal do Mato Grosso do Sul, Brazil.
-- :man_technologist: Stack's Developer React -> JavaScript & Typescript | Go Lang | Next.Js | Postegresql | GoF Design Patterns | Docker | 
+- :man_technologist: Stack's Developer -> JavaScript & Typescript | Go Lang (Gin - gRPC - TWJ) | React & Vue | Next.Js | PostegreSQL | REST API | Docker | GoF Design Patterns | Figma | 
 #
 ### Links 🖥️
 [![Website](https://img.shields.io/badge/-Website-1e3f8b?style=flat&color=742774&logo=WebMoney&logoColor=white)](https://www.knightcapivara.com.br/)  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/knightcapivara/)

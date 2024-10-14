@@ -2,7 +2,7 @@ name: GitHub-Profile-3D-Contrib
 
 on:
   schedule: # execute every 12 hours
-    - cron: "* */06 * * *"
+    - cron: "0 18 * * *" 
   workflow_dispatch:
 
 jobs:
@@ -21,4 +21,4 @@ jobs:
           git config user.email github-actions@github.com
           git add -A .
           git commit -m "generated"
-          git push
+          git push origin master

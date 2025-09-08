@@ -30,7 +30,7 @@
   </a> <br>
  <a href="https://github-profile-trophy.vercel.app/?username=KnightCapivara&column=5&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true">
         <img 
-             src="https://github-profile-trophy.vercel.app/?username=KnightCapivara&column=5&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true"
+             src="https://github-profile-trophy.vercel.app/?username=KnightCapivara&title=-PullRequest,-Issues,-Stars,-Reviews&column=5&theme=gruvbox&margin-w=4&margin-h=4&no-frame=true&no-bg=true"
              align="center"
              title="Danillo Acassio's Trophies"
              width="70%"
